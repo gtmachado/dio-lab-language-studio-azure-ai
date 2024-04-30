@@ -2,16 +2,8 @@
 
 Neste projeto, utilizei o Azure Language Studio para analisar o sentimento de um texto.
 
-## Processo:
+## Análise de Sentimento com Language Studio:
 
-1. **Criação do Repositório:**
-   - Criei um novo repositório no GitHub com o nome "MeuRepositorio".
-   
-2. **Criação da Pasta 'inputs':**
-   - Criei uma pasta chamada 'inputs'.
-   - Dentro da pasta 'inputs', criei um documento de texto com algumas sentenças.
-
-3. **Análise de Sentimento com Language Studio:**
    - Utilizei o Azure Language Studio para analisar o sentimento do texto.
    - O serviço do Language Studio classificou o sentimento do texto como positivo, negativo ou neutro.
 

@@ -24,5 +24,3 @@ Neste projeto, utilizei o Azure Language Studio para analisar o sentimento de um
 
 - Explorar outras funcionalidades do Azure Language Studio, como detecção de idioma e análise de entidades.
 - Integrar a análise de sentimento em aplicativos e sistemas para tomada de decisões baseada em dados.
-
-![Pasta Inputs](screenshots/pasta_inputs.png)
